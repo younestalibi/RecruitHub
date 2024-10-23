@@ -822,7 +822,7 @@ export const Home = () => {
                   </Text>
                 </li>
               </ul>
-              <p>+212661656789</p>
+              <p>+212000000000</p>
               <p>recruit-hub@gmail.com</p>
               <p>Tétouan, Morocco</p>
             </div>
